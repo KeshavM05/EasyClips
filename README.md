@@ -57,14 +57,26 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 
 ## Screenshots
 
-> Screenshots coming soon — see [easyclips.io](https://easyclips.io) for the live product.
+### Landing Page
+![Landing Page](screenshots/landing-page.png)
 
-<!-- 
-Add screenshots to a /screenshots folder and uncomment:
+### Dashboard Overview
 ![Dashboard](screenshots/dashboard.png)
-![Clip Editor](screenshots/editor.png)
-![Publishing](screenshots/publishing.png)
--->
+
+### Clip Video — AI-Powered Generation
+![Clip Video Modal](screenshots/clip-video.png)
+
+### Content Library
+![Clips Library](screenshots/clips.png)
+
+### Posting Schedule Calendar
+![Calendar](screenshots/calendar.png)
+
+### Multi-Platform Distribution
+![Connected Platforms](screenshots/platforms.png)
+
+### Pricing Plans
+![Billing](screenshots/billing.png)
 
 ---
 
