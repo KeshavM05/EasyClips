@@ -61,7 +61,7 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 ![Landing Page](screenshots/landing-page.png)
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/overview.png)
 
 ### Clip Video — AI-Powered Generation
 ![Clip Video Modal](screenshots/clip-video.png)
@@ -74,6 +74,9 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 
 ### Multi-Platform Distribution
 ![Connected Platforms](screenshots/platforms.png)
+
+### Campaign Management
+![Campaigns](screenshots/campaigns.png)
 
 ### Pricing Plans
 ![Billing](screenshots/billing.png)
