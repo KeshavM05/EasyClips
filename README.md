@@ -66,6 +66,9 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 ### Clip Video — AI-Powered Generation
 ![Clip Video Modal](screenshots/clip-video.png)
 
+### Add Channel — Connect Any YouTube Channel
+![Add Channel](screenshots/add-channel.png)
+
 ### Content Library
 ![Clips Library](screenshots/clips.png)
 
