@@ -126,7 +126,7 @@ This was my first time building and launching a SaaS product. Everything below w
 
 | Metric | USD | CAD (approx.) |
 |--------|-----|---------------|
-| Gross Volume | $1,268.63 | ~$1,800 |
+| Gross Volume | $1,268.63 | $1,804 |
 | Monthly Recurring Revenue (MRR) | $149.94 | ~$213 |
 | Net Volume | $1,030.43 | ~$1,463 |
 | Total Customers | 4,134 | — |
