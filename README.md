@@ -117,11 +117,37 @@ YouTube Channel URL
 
 ---
 
-## Business
+## Traction & Metrics (First 3 Months)
 
-- **Live product** generating revenue at [easyclips.io](https://easyclips.io)
-- Solo-founded and built end-to-end (product, engineering, marketing)
-- Serving creators, podcasters, and businesses
+This was my first time building and launching a SaaS product. Everything below was achieved within **3 months** of launch:
+
+| Metric | Value |
+|--------|-------|
+| Gross Volume | $1,268.63 |
+| Monthly Recurring Revenue (MRR) | $149.94 |
+| Net Volume | $1,030.43 |
+| Total Customers | 4,134 |
+| Active Subscribers | 6 |
+| Payouts | $39.99 |
+
+### Stripe Dashboard
+![Stripe Dashboard](screenshots/stripe-dashboard.png)
+
+---
+
+## About This Project
+
+I built EasyClips from scratch as a solo founder — handling product design, full-stack engineering, AI/ML pipeline development, and marketing. This is my first startup and my first SaaS product.
+
+**Timeline:** Went from idea to revenue-generating product in 3 months.
+
+**What I built:**
+- Full-stack web application with auth, billing, and dashboards
+- AI pipeline for video analysis, moment detection, and clip generation
+- Video processing system (vertical crop, captioning, rendering)
+- Multi-platform distribution engine (TikTok, Instagram, YouTube, LinkedIn, Facebook)
+- Subscription billing with Stripe integration
+- Channel monitoring system that auto-clips new uploads
 
 ---
 
