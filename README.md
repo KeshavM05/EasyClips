@@ -124,14 +124,13 @@ YouTube Channel URL
 
 This was my first time building and launching a SaaS product. Everything below was achieved within **3 months** of launch:
 
-| Metric | Value |
-|--------|-------|
-| Gross Volume | $1,268.63 |
-| Monthly Recurring Revenue (MRR) | $149.94 |
-| Net Volume | $1,030.43 |
-| Total Customers | 4,134 |
-| Active Subscribers | 6 |
-| Payouts | $39.99 |
+| Metric | USD | CAD (approx.) |
+|--------|-----|---------------|
+| Gross Volume | $1,268.63 | ~$1,740 |
+| Monthly Recurring Revenue (MRR) | $149.94 | ~$206 |
+| Net Volume | $1,030.43 | ~$1,414 |
+| Total Customers | 4,134 | — |
+| Total Paying Customers | 28 | — |
 
 ### Stripe Dashboard
 ![Stripe Dashboard](screenshots/stripe-dashboard.png)
