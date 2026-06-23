@@ -48,7 +48,7 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 |-------|-----------|
 | Frontend | Next.js, React, TailwindCSS |
 | Backend | Node.js |
-| AI & Video Processing | [Motion](https://www.motion.ai) API (YC-backed) |
+| AI & Video Processing | [Mosaic](https://mosaic.so) API (YC-backed) |
 | Distribution | [Ayrshare](https://www.ayrshare.com) API |
 
 ---
@@ -143,7 +143,7 @@ I built EasyClips from scratch as a solo founder — handling product design, fu
 
 **What I built:**
 - Full-stack web application with auth, billing, and dashboards
-- Integration with Motion's API for AI-powered clip generation and video processing
+- Integration with Mosaic's API for AI-powered clip generation and video processing
 - Integration with Ayrshare for multi-platform distribution (TikTok, Instagram, YouTube, LinkedIn, Facebook)
 - Subscription billing with Stripe integration
 - Channel monitoring system that auto-clips new uploads
