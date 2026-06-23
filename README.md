@@ -78,6 +78,9 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 ### Multi-Platform Distribution
 ![Connected Platforms](screenshots/platforms.png)
 
+### Social Account Connections (via Ayrshare)
+![Ayrshare Connect](screenshots/ayrshare-connect.png)
+
 ### Campaign Management
 ![Campaigns](screenshots/campaigns.png)
 
