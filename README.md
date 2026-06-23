@@ -84,6 +84,9 @@ EasyClips scans YouTube channels, uses AI to identify the most shareable moments
 ### Pricing Plans
 ![Billing](screenshots/billing.png)
 
+### Stripe Dashboard — Revenue & Metrics
+![Stripe Dashboard](screenshots/stripe-dashboard.png)
+
 ---
 
 ## Architecture Overview
